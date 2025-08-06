@@ -79,8 +79,8 @@
   <div class="section">
     <h2>About Us</h2>
     <p>
-      PCS is a trusted Australian pest control company, dedicated to protecting homes and businesses from unwanted pests. With a team of licensed professionals and eco-safe methods, we deliver fast, reliable, and long-lasting pest management solutions across the country.
-      At PCS Pest Control Services, we are committed to providing reliable, eco-friendly, and professional pest management solutions across Australia. Our experienced team specializes in the safe removal and prevention of common pests such as termites, rodents, cockroaches, ants, and spiders. We serve both residential and commercial properties, using advanced techniques and environmentally safe products to ensure long-lasting protection. At PCS, customer satisfaction is our top priority, which is why we offer flexible scheduling, thorough inspections, and tailored treatment plans to suit every need. Whether it's a one-time service or a long-term maintenance plan, PCS is your trusted partner in creating pest-free environments.
+      PCS is a trusted American  pest control company, dedicated to protecting homes and businesses from unwanted pests. With a team of licensed professionals and eco-safe methods, we deliver fast, reliable, and long-lasting pest management solutions across the country.
+      At PCS Pest Control Services, we are committed to providing reliable, eco-friendly, and professional pest management solutions across louisiana , California , los angeles. Our experienced team specializes in the safe removal and prevention of common pests such as termites, rodents, cockroaches, ants, and spiders. We serve both residential and commercial properties, using advanced techniques and environmentally safe products to ensure long-lasting protection. At PCS, customer satisfaction is our top priority, which is why we offer flexible scheduling, thorough inspections, and tailored treatment plans to suit every need. Whether it's a one-time service or a long-term maintenance plan, PCS is your trusted partner in creating pest-free environments.
     </p>
   </div>
 
