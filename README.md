@@ -108,7 +108,7 @@
   </div>
 
   <footer>
-    &copy; 2025 PCS Australia - All rights reserved.
+    &copy; 2025 PCS USA - All rights reserved.
   </footer>
 
   <script>
