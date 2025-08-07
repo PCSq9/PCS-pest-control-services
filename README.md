@@ -92,6 +92,7 @@
       <li>Termite Inspection & Treatment</li>
       <li>Rodent and Cockroach Removal</li>
       <li>Preventive Treatments</li>
+      <li>General Maintenance</li>
     </ul>
   </div>
 
